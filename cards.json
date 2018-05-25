@@ -11,7 +11,10 @@
 		"phase": "Pre-Class",
 		"objective": "Classroom Management",
 		"tooltip": "Core",
-		"bucket": "bucket6, bucket2"
+		"bucket": "bucket6, bucket2",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/setting-expectations-and-routines/signalling-for-students-attention",
+		"stp2" : "",
+		"stp3" : ""
   },
   {"id": "0002",
 		"image": "../img/core/Timeboxing.png",
@@ -25,7 +28,10 @@
 		"phase": "Activity",
 		"objective": "ICT Effectiveness",
 		"tooltip": "Core",
-		"bucket": "bucket1, bucket5, bucket6"
+		"bucket": "bucket1, bucket5, bucket6",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/pacing-and-maintaining-momentum",
+		"stp2" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/setting-expectations-and-routines",
+		"stp3" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/maintaining-positive-discipline"
   },
   {"id": "0003",
 		"image": "../img/core/Link-Sharing.png",
@@ -39,7 +45,10 @@
 		"phase": "Pre-Class",
 		"objective": "ICT Effectiveness",
 		"tooltip": "Core",
-		"bucket": "bucket1"
+		"bucket": "bucket1",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-preparation/deciding-on-teaching-aids-and-learning-resources",
+		"stp2" : "",
+		"stp3" : ""
   },
   {"id": "0004",
 		"image": "../img/core/Go-Easy.png",
@@ -53,7 +62,10 @@
 		"phase": "Throughtout",
 		"objective": "",
 		"tooltip": "Core",
-		"bucket": ""
+		"bucket": "",
+		"stp1" : "",
+		"stp2" : "",
+		"stp3" : ""
   },
   {"id": "0005",
     "image": "../img/core/Screens-Down.png",
@@ -67,7 +79,10 @@
 		"phase": "Throughout",
 		"objective": "Classroom Management",
 		"tooltip": "Core",
-		"bucket": "bucket1, bucket 2, bucket6"
+		"bucket": "bucket1, bucket 2, bucket6",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/setting-expectations-and-routines/signalling-for-students-attention",
+		"stp2" : "",
+		"stp3" : ""
   },
   {"id": "0006",
 		"image": "../img/core/Present-from-the-Back.png",
@@ -81,7 +96,10 @@
 		"phase": "Activity",
 		"objective": "Mobility in Class",
 		"tooltip": "Core",
-		"bucket": "bucket3, bucket4, bucket6, bucket7"
+		"bucket": "bucket3, bucket4, bucket6, bucket7",
+		"stp1" : "",
+		"stp2" : "",
+		"stp3" : ""
   },
   {"id": "0007",
 		"image": "../img/core/Half-Flap.png",
@@ -95,7 +113,10 @@
 		"phase": "Throughout",
 		"objective": "Classroom Management",
 		"tooltip": "Core",
-		"bucket": ""
+		"bucket": "",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/setting-expectations-and-routines/signalling-for-students-attention",
+		"stp2" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/pacing-and-maintaining-momentum/managing-transitions",
+		"stp3" : ""
   },
   {"id": "0008",
     "image": "../img/core/Untether-Yourself.png",
@@ -109,7 +130,10 @@
 		"phase": "Set-Up",
 		"objective": "Mobility in Class",
 		"tooltip": "Core",
-		"bucket": "bucket2, bucket4, bucket6"
+		"bucket": "bucket2, bucket4, bucket6",
+		"stp1" : "",
+		"stp2" : "",
+		"stp3" : ""
   },
   {"id": "0009",
 		"image": "../img/core/Decible-Meter.png",
@@ -123,7 +147,10 @@
 		"phase": "Set-Up",
 		"objective": "Classroom Management",
 		"tooltip": "Core",
-		"bucket": "bucket5, bucket8"
+		"bucket": "bucket5, bucket8",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/setting-expectations-and-routines",
+		"stp2" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/maintaining-positive-discipline/preparing-an-environment-for-positive-discipline",
+		"stp3" : ""
   },
   {"id": "0010",
     "image": "../img/core/Working-in-Pairs.png",
@@ -137,7 +164,10 @@
 		"phase": "Set-Up",
 		"objective": "Classroom Management",
 		"tooltip": "Core",
-		"bucket": ""
+		"bucket": "",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/establishing-interaction-and-rapport/facilitating-student-student-interactions",
+		"stp2" : "",
+		"stp3" : ""
   },
   {"id": "0011",
 		"image": "../img/core/Try-Three-Times.png",
@@ -151,7 +181,10 @@
 		"phase": "Throughout",
 		"objective": "Classroom Management",
 		"tooltip": "Core",
-		"bucket": ""
+		"bucket": "",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/exercising-flexibility",
+		"stp2" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/pacing-and-maintaining-momentum",
+		"stp3" : ""
   },
   {"id": "0013",
     "image": "../img/core/Digital-Dashboard.png",
@@ -165,7 +198,10 @@
 		"phase": "Throughout",
 		"objective": "ICT Effectiveness",
 		"tooltip": "Core",
-		"bucket": "bucket2"
+		"bucket": "bucket2",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/maintaining-positive-discipline/preparing-an-environment-for-positive-discipline",
+		"stp2" : "",
+		"stp3" : ""
   },
   {"id": "0014",
 		"image": "../img/core/Level-Up-With-Mobile-Tools.png",
@@ -179,7 +215,10 @@
 		"phase": "Throughout",
 		"objective": "Mobility in Class",
 		"tooltip": "Core",
-		"bucket": "bucket2, bucket4"
+		"bucket": "bucket2, bucket4",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/providing-clear-explanation",
+		"stp2" : "",
+		"stp3" : ""
   },
   {"id": "0015",
     "image": "../img/core/Run-Through-First.png",
@@ -193,7 +232,10 @@
 		"phase": "Introduction",
 		"objective": "Classroom Management",
 		"tooltip": "Core",
-		"bucket": ""
+		"bucket": "",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/setting-expectations-and-routines",
+		"stp2" : "",
+		"stp3" : ""
   },
   {"id": "0016",
 		"image": "../img/core/Simplify-Instructions.png",
@@ -207,7 +249,10 @@
 		"phase": "Introduction",
 		"objective": "Classroom Management",
 		"tooltip": "Core",
-		"bucket": "bucket1"
+		"bucket": "bucket1",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/setting-expectations-and-routines/simple-efficient-effective-see",
+		"stp2" : "",
+		"stp3" : ""
   },
   {"id": "0017",
 		"image": "../img/core/Visual-Modelling.png",
@@ -221,7 +266,10 @@
 		"phase": "Throughout",
 		"objective": "Classroom Management",
 		"tooltip": "Core",
-		"bucket": ""
+		"bucket": "",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/providing-clear-explanation/demonstration",
+		"stp2" : "",
+		"stp3" : ""
   },
   {"id": "0018",
     "image": "../img/core/Device-Selection.png",
@@ -235,7 +283,10 @@
 		"phase": "Pre-Class",
 		"objective": "ICT Effectiveness",
 		"tooltip": "Core",
-		"bucket": "bucket1, bucket5"
+		"bucket": "bucket1, bucket5",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-preparation/deciding-on-teaching-aids-and-learning-resources",
+		"stp2" : "",
+		"stp3" : ""
   },
   {"id": "0019",
 		"image": "../img/core/Little-Helpers.png",
@@ -249,7 +300,10 @@
 		"phase": "Throughout",
 		"objective": "Classroom Management",
 		"tooltip": "Core",
-		"bucket": "bucket7"
+		"bucket": "bucket7",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/maintaining-positive-discipline/preparing-an-environment-for-positive-discipline",
+		"stp2" : "",
+		"stp3" : ""
   },
   {"id": "0020",
 		"image": "../img/core/Managing-Devices.png",
@@ -263,7 +317,10 @@
 		"phase": "Set-Up",
 		"objective": "Classroom Management",
 		"tooltip": "Core",
-		"bucket": ""
+		"bucket": "",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/maintaining-positive-discipline/preparing-an-environment-for-positive-discipline",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0021",
 		"image": "../img/objective/Collaborative-Learning-(Young).png",
@@ -277,7 +334,10 @@
 		"phase": "Activity",
 		"objective": "Collaboration",
 		"tooltip": "Objective",
-		"bucket": "bucket3, bucket8"
+		"bucket": "bucket3, bucket8",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/facilitating-collaborative-learning",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0022",
 		"image": "../img/objective/Collaborative-Learning-(Older).png",
@@ -291,7 +351,10 @@
 		"phase": "Activity",
 		"objective": "Collaboration",
 		"tooltip": "Objective",
-		"bucket": "bucket3, bucket8"
+		"bucket": "bucket3, bucket8",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/facilitating-collaborative-learning",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0023",
 		"image": "../img/objective/Driving-Discussion-Roles.png",
@@ -305,7 +368,10 @@
 		"phase": "Activity",
 		"objective": "Collaboration",
 		"tooltip": "Objective",
-		"bucket": "bucket5"
+		"bucket": "bucket5",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/facilitating-collaborative-learning",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0024",
 		"image": "../img/objective/Sentence-Starters.png",
@@ -319,7 +385,10 @@
 		"phase": "Throughout",
 		"objective": "Collaboration",
 		"tooltip": "Objective",
-		"bucket": "bucket3, bucket7"
+		"bucket": "bucket3, bucket7",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/assessment-and-feedback/checking-for-understanding-and-providing-feedback",
+		"stp2" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/establishing-interaction-and-rapport/facilitating-student-student-interactions",
+		"stp3" : ""
   },
 	{"id": "0025",
 		"image": "../img/objective/Creating-Discussion-Spaces.png",
@@ -333,7 +402,10 @@
 		"phase": "Set-Up",
 		"objective": "Collaboration",
 		"tooltip": "Objective",
-		"bucket": "bucket3"
+		"bucket": "bucket3",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/maintaining-positive-discipline/preparing-an-environment-for-positive-discipline",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0026",
 		"image": "../img/objective/Cluster-Seating.png",
@@ -347,7 +419,10 @@
 		"phase": "Set-Up",
 		"objective": "Collaboration",
 		"tooltip": "Objective",
-		"bucket": "bucket3, bucket5"
+		"bucket": "bucket3, bucket5",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/maintaining-positive-discipline/preparing-an-environment-for-positive-discipline",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0026",
 		"image": "../img/objective/Using-Lesson-Seeds.png",
@@ -361,7 +436,10 @@
 		"phase": "Pre-Class",
 		"objective": "Real World Learning",
 		"tooltip": "Objective",
-		"bucket": "bucket2, bucket4, bucket7, bucket-11"
+		"bucket": "bucket2, bucket4, bucket7, bucket-11",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/arousing-interest/using-stories-and-images",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0027",
 		"image": "../img/objective/Magic-School-Bus.png",
@@ -375,7 +453,10 @@
 		"phase": "Throughout",
 		"objective": "Real World Learning",
 		"tooltip": "Objective",
-		"bucket": "bucket6, bucket-11"
+		"bucket": "bucket6, bucket-11",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/arousing-interest",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0028",
 		"image": "../img/objective/Travel-via-the-Internet.png",
@@ -389,7 +470,10 @@
 		"phase": "Activity",
 		"objective": "Real World Learning",
 		"tooltip": "Objective",
-		"bucket": "bucket3, bucket6, bucket8, bucket9, bucket-11"
+		"bucket": "bucket3, bucket6, bucket8, bucket9, bucket-11",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/encouraging-learner-engagement/engagement-through-collaboration-and-interactivity",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0029",
 		"image": "../img/objective/Digital-Museum.png",
@@ -403,7 +487,10 @@
 		"phase": "Activity",
 		"objective": "Real World Learning",
 		"tooltip": "Objective",
-		"bucket": "bucket3, bucket9, bucket-11"
+		"bucket": "bucket3, bucket9, bucket-11",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/encouraging-learner-engagement/engagement-through-collaboration-and-interactivity",
+		"stp2" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/facilitating-collaborative-learning/scouting-for-information",
+		"stp3" : ""
   },
 	{"id": "0030",
 		"image": "../img/objective/Livecasting.png",
@@ -417,7 +504,10 @@
 		"phase": "Activity",
 		"objective": "Real World Learning",
 		"tooltip": "Objective",
-		"bucket": "bucket3, bucket4, bucket7, bucket-11"
+		"bucket": "bucket3, bucket4, bucket7, bucket-11",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/providing-clear-explanation/demonstration",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0031",
 		"image": "../img/objective/Webquests.png",
@@ -431,7 +521,10 @@
 		"phase": "Activity",
 		"objective": "Class Engagement",
 		"tooltip": "Objective",
-		"bucket": "bucket7, bucket-10"
+		"bucket": "bucket7, bucket-10",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/encouraging-learner-engagement",
+		"stp2" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/facilitating-collaborative-learning/scouting-for-information",
+		"stp3" : ""
   },
 	{"id": "0032",
 		"image": "../img/objective/Spot-the-Mistakes.png",
@@ -445,7 +538,10 @@
 		"phase": "Pre-Class",
 		"objective": "Class Engagement",
 		"tooltip": "Objective",
-		"bucket": "bucket7"
+		"bucket": "bucket7",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/arousing-interest",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0033",
 		"image": "../img/objective/Countdown.png",
@@ -459,7 +555,10 @@
 		"phase": "Pre-Class",
 		"objective": "Class Engagement",
 		"tooltip": "Objective",
-		"bucket": "bucket7"
+		"bucket": "bucket7",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/pacing-and-maintaining-momentum/time-fillers",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0034",
 		"image": "../img/objective/Closing-a-Lesson.png",
@@ -473,7 +572,10 @@
 		"phase": "Closure",
 		"objective": "Class Engagement",
 		"tooltip": "Objective",
-		"bucket": "bucket2, bucket5, bucket6, bucket8"
+		"bucket": "bucket2, bucket5, bucket6, bucket8",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/concluding-the-lesson",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0035",
 		"image": "../img/objective/Content-for-Dessert.png",
@@ -487,7 +589,10 @@
 		"phase": "Activity",
 		"objective": "Class Engagement",
 		"tooltip": "Objective",
-		"bucket": "bucket6, bucket-11"
+		"bucket": "bucket6, bucket-11",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/pacing-and-maintaining-momentum/time-fillers",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0036",
 		"image": "../img/objective/Disprove-Me.png",
@@ -501,7 +606,10 @@
 		"phase": "Activity",
 		"objective": "Class Engagement",
 		"tooltip": "Objective",
-		"bucket": ""
+		"bucket": "",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/arousing-interest",
+		"stp2" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/facilitating-collaborative-learning/scouting-for-information",
+		"stp3" : "https://opal.moe.edu.sg/stp/pedagogical-practices/assessment-and-feedback/supporting-self-directed-learning/structured-online-forum-discussion"
   },
 	{"id": "0037",
 		"image": "../img/objective/Visual-Definitions.png",
@@ -512,10 +620,13 @@
 		"linktext": "",
 		"details": "1. Pose a question to them. What does “favourite” mean to them? What is “fun?” “Interdependence?”. 2. Ask them to create a digital collage representing their answer to your question, using Powerpoint, Prezi, Pinterest or Google Image Search and similar services. 3. Have them present their collages and summarise the concepts and learning points.",
 		"video": "",
-		"phase": "Activity",
+		"phase": "Closure",
 		"objective": "Creativity",
 		"tooltip": "Objective",
-		"bucket": "bucket6, bucket8, bucket-10"
+		"bucket": "bucket6, bucket8, bucket-10",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/concluding-the-lesson/my-visual-representation",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0038",
 		"image": "../img/objective/Online-Mindmaps.png",
@@ -529,7 +640,10 @@
 		"phase": "Activity",
 		"objective": "Creativity",
 		"tooltip": "Objective",
-		"bucket": "bucket3, bucket6, bucket8, bucket-10"
+		"bucket": "bucket3, bucket6, bucket8, bucket-10",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/assessment-and-feedback/supporting-self-directed-learning/demonstrating-my-understanding-through-mind-maps",
+		"stp2" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/maintaining-positive-discipline/monitoring-and-managing-behaviour",
+		"stp3" : ""
   },
 	{"id": "0039",
 		"image": "../img/objective/Sandwich-Maker.png",
@@ -543,7 +657,10 @@
 		"phase": "Activity",
 		"objective": "Creativity",
 		"tooltip": "Objective",
-		"bucket": "bucket7"
+		"bucket": "bucket7",
+		"stp1" : "",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0040",
 		"image": "../img/objective/Open-Ended-Presentations.png",
@@ -557,7 +674,10 @@
 		"phase": "Activity",
 		"objective": "Creativity",
 		"tooltip": "Objective",
-		"bucket": "bucket3, bucket6, bucket8"
+		"bucket": "bucket3, bucket6, bucket8",
+		"stp1" : "",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0041",
 		"image": "../img/objective/Blended-Roleplay.png",
@@ -571,7 +691,10 @@
 		"phase": "Activity",
 		"objective": "Creativity",
 		"tooltip": "Objective",
-		"bucket": "bucket3, bucket8, bucket-11"
+		"bucket": "bucket3, bucket8, bucket-11",
+		"stp1" : "",
+		"stp2" : "",
+		"stp3" : ""
   },
 	{"id": "0042",
 		"image": "../img/objective/Your-Choice.png",
@@ -585,7 +708,10 @@
 		"phase": "Throughout",
 		"objective": "Creativity",
 		"tooltip": "Objective",
-		"bucket": "bucket3, bucket8"
+		"bucket": "bucket3, bucket8",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/assessment-and-feedback/setting-meaningful-assignments/your-choice",
+		"stp2" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/maintaining-positive-discipline/monitoring-and-managing-behaviour",
+		"stp3" : ""
   },
 	{"id": "0043",
 		"image": "../img/objective/Interactive-Screenshot.png",
@@ -599,7 +725,10 @@
 		"phase": "Closure",
 		"objective": "Archiving",
 		"tooltip": "Objective",
-		"bucket": "bucket6, bucket7, bucket-11"
+		"bucket": "bucket6, bucket7, bucket-11",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/providing-clear-explanation",
+		"stp2" : "https://opal.moe.edu.sg/stp/pedagogical-practices/lesson-enactment/encouraging-learner-engagement/engagement-through-collaboration-and-interactivity",
+		"stp3" : ""
   },
 	{"id": "0044",
 		"image": "../img/objective/Export-for-Archive.png",
@@ -613,6 +742,9 @@
 		"phase": "Closure",
 		"objective": "Archiving",
 		"tooltip": "Objective",
-		"bucket": "bucket5, bucket6"
+		"bucket": "bucket5, bucket6",
+		"stp1" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/setting-expectations-and-routines",
+		"stp2" : "https://opal.moe.edu.sg/stp/pedagogical-practices/positive-classroom-culture/empowering-learners",
+		"stp3" : ""
   }
 ]
