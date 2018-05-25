@@ -1,6 +1,6 @@
 [
 	{"id": "0001",
-		"image": "../output/img/core/Eyes-on-Me.png",
+		"image": "../img/core/Eyes-on-Me.png",
 		"title": "Eyes On Me",
 		"tagline": "It takes effort for students to shift their attention from the physical world back to the digital, and this instruction helps to remind them.",
 		"description": "",
@@ -14,7 +14,7 @@
 		"bucket": "bucket6, bucket2"
   },
   {"id": "0002",
-		"image": "../output/img/core/Timeboxing.png",
+		"image": "../img/core/Timeboxing.png",
 		"title": "Timeboxing",
 		"tagline": "It‘s easy to get lost in the digital world! Just as students need structure in the classroom, they need to be reminded of the limits of their time in a digital space.",
 		"description": "",
@@ -28,7 +28,7 @@
 		"bucket": "bucket1, bucket5, bucket6"
   },
   {"id": "0003",
-		"image": "../output/img/core/Link-Sharing.png",
+		"image": "../img/core/Link-Sharing.png",
 		"title": "Link-Sharing",
 		"tagline": "When sharing links that students are expected to type on their own devices, use the following guidelines to make your life and theirs easier.",
 		"description": "",
@@ -42,7 +42,7 @@
 		"bucket": "bucket1"
   },
   {"id": "0004",
-		"image": "../output/img/core/Go-Easy.png",
+		"image": "../img/core/Go-Easy.png",
 		"title": "Go Easy",
 		"tagline": "ICT classes are often imperfect, and that‘s okay — instead of beating yourself up about it, go with the flow and adapt to the situation.",
 		"description": "",
@@ -56,7 +56,7 @@
 		"bucket": ""
   },
   {"id": "0005",
-    "image": "../output/img/core/Screens-Down.png",
+    "image": "../img/core/Screens-Down.png",
     "title": "Screens Down",
     "tagline": "Steeped in the digital world, students need a clear routine to draw their attention back to you and to the physical world.",
 		"description": "",
@@ -70,7 +70,7 @@
 		"bucket": "bucket1, bucket 2, bucket6"
   },
   {"id": "0006",
-		"image": "../output/img/core/Present-from-the-Back.png",
+		"image": "../img/core/Present-from-the-Back.png",
 		"title": "Present from the Back",
 		"tagline": "Physical engagement can be increased in an ICT-enabled class by placing yourself amongst the students.",
 		"description": "",
@@ -84,7 +84,7 @@
 		"bucket": "bucket3, bucket4, bucket6, bucket7"
   },
   {"id": "0007",
-		"image": "../output/img/core/Half-Flap.png",
+		"image": "../img/core/Half-Flap.png",
 		"title": "Half Flap",
 		"tagline": "If you simply want to give a quick instruction, ask students to put their devices to half flap (a 45 degree angle) instead of screens down.",
 		"description": "",
@@ -98,7 +98,7 @@
 		"bucket": ""
   },
   {"id": "0008",
-    "image": "../output/img/core/Untether-Yourself.png",
+    "image": "../img/core/Untether-Yourself.png",
     "title": "Untether Yourself",
     "tagline": "Technology can make you mobile in class, giving you more freedom to engage with students, monitor their work, and facilitate discussions.",
 		"description": "",
@@ -112,7 +112,7 @@
 		"bucket": "bucket2, bucket4, bucket6"
   },
   {"id": "0009",
-		"image": "../output/img/core/Decible-Meter.png",
+		"image": "../img/core/Decible-Meter.png",
 		"title": "Decibel Meter",
 		"tagline": " A digital decibel meter app can help with noise management in the classroom, especially during collaborative group work.",
 		"description": "",
@@ -126,7 +126,7 @@
 		"bucket": "bucket5, bucket8"
   },
   {"id": "0010",
-    "image": "../output/img/core/Working-in-Pairs.png",
+    "image": "../img/core/Working-in-Pairs.png",
     "title": "Troublesheet in Pairs",
     "tagline": "To reduce troubleshooting in a 1:1 class, encourage students to extend their helping hands to peers by checking each other’s progress before asking for help.",
 		"description": "",
@@ -140,7 +140,7 @@
 		"bucket": ""
   },
   {"id": "0011",
-		"image": "../output/img/core/Try-Three-Times.png",
+		"image": "../img/core/Try-Three-Times.png",
 		"title": "Try Three Times",
 		"tagline": "Not every problem must be solved; sometimes, devices work imperfectly, but the lesson needs to proceed.",
 		"description": "",
@@ -154,7 +154,7 @@
 		"bucket": ""
   },
   {"id": "0013",
-    "image": "../output/img/core/Digital-Dashboard.png",
+    "image": "../img/core/Digital-Dashboard.png",
     "title": "Digital Dashboard",
     "tagline": "Similar to how files and noticeboards serve as physical repositories for information and documents, a 1:1 class needs a digital space.",
 		"description": "",
@@ -168,7 +168,7 @@
 		"bucket": "bucket2"
   },
   {"id": "0014",
-		"image": "../output/img/core/Level-Up-With-Mobile-Tools.png",
+		"image": "../img/core/Level-Up-With-Mobile-Tools.png",
 		"title": "Level Up with Mobile Tools",
 		"tagline": "To leverage the full potential of mobility in class, use your mobile tools to emphasise or highlight details.",
 		"description": "",
@@ -182,7 +182,7 @@
 		"bucket": "bucket2, bucket4"
   },
   {"id": "0015",
-    "image": "../output/img/core/Run-Through-First.png",
+    "image": "../img/core/Run-Through-First.png",
     "title": "Start With Expectations",
     "tagline": "Give students an overview of the process from beginning to end to help them understand and remember how to proceed.",
 		"description": "",
@@ -196,7 +196,7 @@
 		"bucket": ""
   },
   {"id": "0016",
-		"image": "../output/img/core/Simplify-Instructions.png",
+		"image": "../img/core/Simplify-Instructions.png",
 		"title": "Simple Instructions",
 		"tagline": "Get students to understand what to do with a new device or platform more smoothly and easily with smaller steps.",
 		"description": "",
@@ -210,7 +210,7 @@
 		"bucket": "bucket1"
   },
   {"id": "0017",
-		"image": "../output/img/core/Visual-Modelling.png",
+		"image": "../img/core/Visual-Modelling.png",
 		"title": "Visual Modelling",
 		"tagline": "Visual cues and modelling are really important to get students on board. If they are able to follow along with your screen, they are less likely to be lost.",
 		"description": "",
@@ -224,7 +224,7 @@
 		"bucket": ""
   },
   {"id": "0018",
-    "image": "../output/img/core/Device-Selection.png",
+    "image": "../img/core/Device-Selection.png",
     "title": "Device Selection",
     "tagline": "When choosing devices to introduce in a lesson, think about what you need to achieve — different devices have different advantages.",
 		"description": "",
@@ -238,7 +238,7 @@
 		"bucket": "bucket1, bucket5"
   },
   {"id": "0019",
-		"image": "../output/img/core/Little-Helpers.png",
+		"image": "../img/core/Little-Helpers.png",
 		"title": "Empower Student Helpers",
 		"tagline": "Crafting ICT-enabled lessons often come with more logistics, but you don’t have to do it alone — students are inquisitive, nimble, and often more familiar with devices.",
 		"description": "",
@@ -252,7 +252,7 @@
 		"bucket": "bucket7"
   },
   {"id": "0020",
-		"image": "../output/img/core/Managing-Devices.png",
+		"image": "../img/core/Managing-Devices.png",
 		"title": "Managing Devices",
 		"tagline": "If students are using devices frequently (mobile cart or BYOD), they need clear instructions for storage and usage.",
 		"description": "",
@@ -266,7 +266,7 @@
 		"bucket": ""
   },
 	{"id": "0021",
-		"image": "../output/img/objective/Collaborative-Learning-(Young).png",
+		"image": "../img/objective/Collaborative-Learning-(Young).png",
 		"title": "Collaborative Learning (Younger Students)",
 		"tagline": "At primary school and Secondary 1, students require more modelling and instructions on how to build on each other’s ideas and how to give constructive criticism.",
 		"description": "",
@@ -280,7 +280,7 @@
 		"bucket": "bucket3, bucket8"
   },
 	{"id": "0022",
-		"image": "../output/img/objective/Collaborative-Learning-(Older).png",
+		"image": "../img/objective/Collaborative-Learning-(Older).png",
 		"title": "Collaborative Learning (Older Students)",
 		"tagline": "Towards upper secondary, students can be trusted with more independent group work and self-regulation, as well as more complicated and diverse routes of thinking.",
 		"description": "",
@@ -294,7 +294,7 @@
 		"bucket": "bucket3, bucket8"
   },
 	{"id": "0023",
-		"image": "../output/img/objective/Driving-Discussion-Roles.png",
+		"image": "../img/objective/Driving-Discussion-Roles.png",
 		"title": "Driving Discussion with Clear Roles",
 		"tagline": "With activities and projects focused on group work, give students clear roles to ensure that discussion happens and everyone is on task.",
 		"description": "",
@@ -308,7 +308,7 @@
 		"bucket": "bucket5"
   },
 	{"id": "0024",
-		"image": "../output/img/objective/Sentence-Starters.png",
+		"image": "../img/objective/Sentence-Starters.png",
 		"title": "Sentence Starters",
 		"tagline": "Students need support in building constructive criticism, and understanding the nuances of critique. Use sentence starters to facilitate discussion and help build these skills.",
 		"description": "",
@@ -322,7 +322,7 @@
 		"bucket": "bucket3, bucket7"
   },
 	{"id": "0025",
-		"image": "../output/img/objective/Creating-Discussion-Spaces.png",
+		"image": "../img/objective/Creating-Discussion-Spaces.png",
 		"title": "Creating Discussion Spaces",
 		"tagline": "If you are trying to set up a zone for discussion in the classroom or other parts of the school, ask yourself some key questions.",
 		"description": "",
@@ -336,7 +336,7 @@
 		"bucket": "bucket3"
   },
 	{"id": "0026",
-		"image": "../output/img/objective/Cluster-Seating.png",
+		"image": "../img/objective/Cluster-Seating.png",
 		"title": "Cluster Seating",
 		"tagline": "For lessons that require lots of discussion and sharing, get students to move into their clusters or groups.",
 		"description": "",
@@ -350,7 +350,7 @@
 		"bucket": "bucket3, bucket5"
   },
 	{"id": "0026",
-		"image": "../output/img/objective/Using-Lesson-Seeds.png",
+		"image": "../img/objective/Using-Lesson-Seeds.png",
 		"title": "Using Lesson Triggers",
 		"tagline": "At the heart of a robust class discussion is often an interesting lesson seed. This can be an object, a video, a news article… anything to trigger the imagination and curiosity of students.",
 		"description": "",
@@ -364,7 +364,7 @@
 		"bucket": "bucket2, bucket4, bucket7, bucket-11"
   },
 	{"id": "0027",
-		"image": "../output/img/objective/Magic-School-Bus.png",
+		"image": "../img/objective/Magic-School-Bus.png",
 		"title": "The Magic School Bus",
 		"tagline": "Technology can expand boundaries by opening your students’ eyes to things we never could access in classrooms in the past.",
 		"description": "",
@@ -378,7 +378,7 @@
 		"bucket": "bucket6, bucket-11"
   },
 	{"id": "0028",
-		"image": "../output/img/objective/Travel-via-the-Internet.png",
+		"image": "../img/objective/Travel-via-the-Internet.png",
 		"title": "Travel Via The Internet",
 		"tagline": "To explore the world, students can get on a plane — or turn on their devices; today‘s internet gives us access to geography and cartography knowledge like never before.",
 		"description": "",
@@ -392,7 +392,7 @@
 		"bucket": "bucket3, bucket6, bucket8, bucket9, bucket-11"
   },
 	{"id": "0029",
-		"image": "../output/img/objective/Digital-Museum.png",
+		"image": "../img/objective/Digital-Museum.png",
 		"title": "Digital Museum",
 		"tagline": "Many museums have digitised their art and historical collections for online perusal, which presents a wealth of opportunities and learnings points for students.",
 		"description": "",
@@ -406,7 +406,7 @@
 		"bucket": "bucket3, bucket9, bucket-11"
   },
 	{"id": "0030",
-		"image": "../output/img/objective/Livecasting.png",
+		"image": "../img/objective/Livecasting.png",
 		"title": "Livecasting",
 		"tagline": "For some topics, you may have teacher demonstrations instead of hands-on activities due to limited apparatus or safety reasons.",
 		"description": "",
@@ -420,7 +420,7 @@
 		"bucket": "bucket3, bucket4, bucket7, bucket-11"
   },
 	{"id": "0031",
-		"image": "../output/img/objective/Webquests.png",
+		"image": "../img/objective/Webquests.png",
 		"title": "Webquests",
 		"tagline": "A Webquest is a type of lesson built around internet inquiry. Students are given a prompt before searching for material.",
 		"description": "",
@@ -434,7 +434,7 @@
 		"bucket": "bucket7, bucket-10"
   },
 	{"id": "0032",
-		"image": "../output/img/objective/Spot-the-Mistakes.png",
+		"image": "../img/objective/Spot-the-Mistakes.png",
 		"title": "Spot The Mistakes",
 		"tagline": "Instead of listening passively, students are encouraged to process and engage with lesson content — so they can catch the teacher making mistakes!",
 		"description": "",
@@ -448,7 +448,7 @@
 		"bucket": "bucket7"
   },
 	{"id": "0033",
-		"image": "../output/img/objective/Countdown.png",
+		"image": "../img/objective/Countdown.png",
 		"title": "Countdown",
 		"tagline": "Countdown is a gameshow format where contestants are given 30 seconds to figure out how to arrive at a target number using sequential operations.",
 		"description": "",
@@ -462,7 +462,7 @@
 		"bucket": "bucket7"
   },
 	{"id": "0034",
-		"image": "../output/img/objective/Closing-a-Lesson.png",
+		"image": "../img/objective/Closing-a-Lesson.png",
 		"title": "Closing a Lesson",
 		"tagline": "After students use online resources to explore the topic, draw them back to the learning objectives and link it to their discoveries.",
 		"description": "",
@@ -476,7 +476,7 @@
 		"bucket": "bucket2, bucket5, bucket6, bucket8"
   },
 	{"id": "0035",
-		"image": "../output/img/objective/Content-for-Dessert.png",
+		"image": "../img/objective/Content-for-Dessert.png",
 		"title": "Rewarding Time Fillers",
 		"tagline": "Motivate students with the promise of a small “media reward” for completing class work. This also keeps early finishers from getting restless. ",
 		"description": "",
@@ -490,7 +490,7 @@
 		"bucket": "bucket6, bucket-11"
   },
 	{"id": "0036",
-		"image": "../output/img/objective/Disprove-Me.png",
+		"image": "../img/objective/Disprove-Me.png",
 		"title": "Disprove Me",
 		"tagline": "Hone their critical thinking by insisting on something absurd and asking them to prove you wrong.",
 		"description": "",
@@ -504,7 +504,7 @@
 		"bucket": ""
   },
 	{"id": "0037",
-		"image": "../output/img/objective/Visual-Definitions.png",
+		"image": "../img/objective/Visual-Definitions.png",
 		"title": "Visual Definitions",
 		"tagline": "This collage-making activity allows students to express themselves, practise searching images and linking concepts while working with class content.",
 		"description": "",
@@ -518,7 +518,7 @@
 		"bucket": "bucket6, bucket8, bucket-10"
   },
 	{"id": "0038",
-		"image": "../output/img/objective/Online-Mindmaps.png",
+		"image": "../img/objective/Online-Mindmaps.png",
 		"title": "Collaborate On Mindmaps",
 		"tagline": "Getting a class or group to collaborate on brainstorming or organising topics related to a central concept can be made easier with the use of mindmapping software.",
 		"description": "",
@@ -532,7 +532,7 @@
 		"bucket": "bucket3, bucket6, bucket8, bucket-10"
   },
 	{"id": "0039",
-		"image": "../output/img/objective/Sandwich-Maker.png",
+		"image": "../img/objective/Sandwich-Maker.png",
 		"title": "Sandwich Maker",
 		"tagline": "Students are asked to describe a task. It impresses upon them that others think differently, and that deliberate effort is required to ensure communication works.",
 		"description": "",
@@ -546,7 +546,7 @@
 		"bucket": "bucket7"
   },
 	{"id": "0040",
-		"image": "../output/img/objective/Open-Ended-Presentations.png",
+		"image": "../img/objective/Open-Ended-Presentations.png",
 		"title": "Open Ended Presentation Slides",
 		"tagline": "Giving students the freedom to stylise and decorate their presentation slides creates more ownership over their work and allows them to develop the needed skills.",
 		"description": "",
@@ -560,7 +560,7 @@
 		"bucket": "bucket3, bucket6, bucket8"
   },
 	{"id": "0041",
-		"image": "../output/img/objective/Blended-Roleplay.png",
+		"image": "../img/objective/Blended-Roleplay.png",
 		"title": "Blended Roleplay",
 		"tagline": "With new digital tools and possibilities, roleplays in class can be made much more authentic and interesting — and inspire creativity in students.",
 		"description": "",
@@ -574,7 +574,7 @@
 		"bucket": "bucket3, bucket8, bucket-11"
   },
 	{"id": "0042",
-		"image": "../output/img/objective/Your-Choice.png",
+		"image": "../img/objective/Your-Choice.png",
 		"title": "Your Choice",
 		"tagline": "Part of the joy of technology is having more freedom of choice, which leads to more ownership.",
 		"description": "",
@@ -588,7 +588,7 @@
 		"bucket": "bucket3, bucket8"
   },
 	{"id": "0043",
-		"image": "../output/img/objective/Interactive-Screenshot.png",
+		"image": "../img/objective/Interactive-Screenshot.png",
 		"title": "Interactive Screenshot",
 		"tagline": "When there is a need to discuss webpages, images or articles, using an annotationenabled screenshot application allows you and the students to view and mark the document up on your devices.",
 		"description": "",
@@ -602,7 +602,7 @@
 		"bucket": "bucket6, bucket7, bucket-11"
   },
 	{"id": "0044",
-		"image": "../output/img/objective/Export-for-Archive.png",
+		"image": "../img/objective/Export-for-Archive.png",
 		"title": "Export for Archive",
 		"tagline": "At the end of each lesson or activity, export any group work for future revision and reference purposes.",
 		"description": "",
